@@ -2,8 +2,9 @@ rencana usaha wpu
 
 -mengumpulkan modal
   * minimal 1 juta
-  * mempersiaokan kandang
+  * mempersiapkan kandang
 -membeli bibit
+  * bibit yang bagus
 -memulai ternak
   * menunggu bebek bertelur
   * claim bebek bertelur 
