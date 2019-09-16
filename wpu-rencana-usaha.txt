@@ -6,6 +6,7 @@ rencana usaha wpu
   * mempersiapkan kandang
      ^ sesuai dengan bebeknya
 -membeli bibit
+  * bibit yang bagus
 -memulai ternak
   * menunggu bebek bertelur
   * claim bebek bertelur 
