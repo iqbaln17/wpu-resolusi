@@ -5,3 +5,5 @@ rencana usaha wpu
   * mempersiaokan kandang
 -membeli bibit
 -memulai ternak
+  * menunggu bebek bertelur
+  * claim bebek bertelur 
